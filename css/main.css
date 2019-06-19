@@ -1,0 +1,47 @@
+@import url('https://cdn.rawgit.com/lonekorean/gist-syntax-themes/848d6580/stylesheets/monokai.css');
+
+.logo {
+    width: 40px;
+}
+
+
+#navbar {
+    background: none;
+}
+
+.header {
+    display: flex;
+}
+
+@media screen and (min-width: 400px) {
+
+    /*.img3 {*/
+    /*    width: auto;*/
+    /*    height: auto;*/
+    /*    align-self: center;*/
+    /*}*/
+
+}
+
+body {
+    background-image: url("../img/black-texture-background@2x.jpg");
+}
+
+section {
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.text1 {
+    color: white;
+}
+
+.gist {
+    width: 100% !important;
+    background-color: black !important;
+}
+
+.gist-file
+.gist-data {
+    max-height: 500px;
+}

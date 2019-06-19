@@ -36,6 +36,9 @@ section {
     color: white;
 }
 
+
+
+
 .gist {
     width: 100% !important;
     background-color: black !important;
@@ -44,4 +47,5 @@ section {
 .gist-file
 .gist-data {
     max-height: 500px;
+    background-color: #f1f3f5;
 }
